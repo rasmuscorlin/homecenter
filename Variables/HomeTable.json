@@ -1,0 +1,166 @@
+{
+	"Bryggers": {
+		"Vaskemaskine": 255,
+		"Vandsensorkælder": 257,
+		"Lysbryggers": 380
+	},
+	"iOS": {
+		"\"CorlinsiPad\"": 58,
+		"PiaBreumsiPhone": 267,
+		"Rasmus-iPad": 473,
+		"\"RasmussiPhone\"": 79,
+		"Rasmus-iPhone": 479,
+		"RasmussiPad": 489,
+		"CorlinsiPad": 478
+	},
+	"Kajasværelse": {
+		"LampeKaja": 313,
+		"VindueKajahøjre": 157,
+		"LysKaja": 278,
+		"VindueKajavenstre": 155,
+		"TermostatKaja": 38
+	},
+	"Gang1.sal": {
+		"Lysgangterasse": 308,
+		"Lysgang1.sal": 297
+	},
+	"users": {
+		"sylvia": 1565,
+		"frank": 1564,
+		"admin": 2
+	},
+	"Viktualierum": {
+		"Lysviktualierum": 517,
+		"Lyssensorvikt.": 17,
+		"Bevægelsevikt.": 15,
+		"Temp.viktualierum": 16
+	},
+	"Kontor": {
+		"Lampekontor": 103,
+		"Lyskontor": 510,
+		"PlayerKontor": 470,
+		"Termostatværelse": 92
+	},
+	"scene": {
+		"quietMorning": 499,
+		"goodMorning": 463,
+		"DumpEventLog": 565,
+		"rebootHC2": 593,
+		"GateOpenHold": 361,
+		"GateOpen5": 526,
+		"kidsToBed": 490,
+		"MainScene": 614,
+		"AlarmControl": 598,
+		"StairsLight30": 556,
+		"PlayroomOff": 617,
+		"firstFloorMusicOn": 579,
+		"hallSceneControl": 519,
+		"GateOpenClose": 425,
+		"firstFloorAllOff": 578,
+		"plaroomTvOn": 580,
+		"goodNight": 331,
+		"welcomeHome": 488,
+		"LeavingHome": 483
+	},
+	"VD": {
+		"Alarm-Godmorgen": 336,
+		"Housecontrol": 268,
+		"AlarmClock3": 337,
+		"AlarmClock2": 338,
+		"SchedulerControl": 335,
+		"AlarmClock4": 339
+	},
+	"Astridsværelse": {
+		"PlayerAstridsværel": 471,
+		"Astridvinduehøjre": 163,
+		"TermostatAstrid": 40,
+		"TemperaturAstrid": 21,
+		"RøgalarmAstrid": 20,
+		"TermoAstrid": 527,
+		"LampeAstrid": 334,
+		"VindueAstridmidt": 159,
+		"LysAstrid": 193,
+		"Temp.alarmAstrid": 22,
+		"VindueAstridvenstr": 171
+	},
+	"Badeværelse1.sal": {
+		"Kontakt1": 235,
+		"Bevægelsebad1st": 200,
+		"Lysbad1.sal": 236,
+		"Lyssensorbad1st": 202,
+		"Temperaturbad1st": 201
+	},
+	"Spisestue": {
+		"Vinduespisestuev.": 46,
+		"Termostatspisestue": 64,
+		"Lampeskænk": 240,
+		"Vinduespisestueh.": 494,
+		"Lysspisestue": 149
+	},
+	"Stue": {
+		"Kontaktlysstue": 206,
+		"Standerlampetv": 30,
+		"Vinduebrændeovn": 173,
+		"Terrassedør": 28,
+		"Standerlampestol": 107,
+		"Standerlampeterrass": 105,
+		"Termostatstueh.": 60,
+		"PlayerStue": 466,
+		"Termostatstuev.": 501,
+		"Loftslampestue": 475,
+		"HarmonyAccount": 415
+	},
+	"Køkken": {
+		"Lyskøkken": 522,
+		"Vinduekøkkenmidt": 491,
+		"Vandsensorkøkken": 328,
+		"Temperaturkøkkenska": 330,
+		"Vinduekøkkenhøjre": 179,
+		"PlayerKitchen": 469,
+		"Vinduekøkkenvenstr": 50,
+		"Coffeemachine": 11
+	},
+	"Hus": {
+		"HEOSSystem": 396,
+		"Sirene": 32
+	},
+	"Unallocated": {
+		"528.3": 533,
+		"306.0.1": 536,
+		"ActivityNetflix": 419,
+		"ActivityWatchPC": 461,
+		"528.4": 534,
+		"ActivityTV": 417,
+		"GroupStue+Sovevær": 496,
+		"528.0.1": 530,
+		"528.0": 529,
+		"ActivityWatchTV": 420,
+		"GroupSoveværelse+": 535,
+		"PlayerSoveværelse": 472,
+		"GroupKontor+Sovev": 488,
+		"528.1": 531,
+		"HubStue": 416,
+		"BulkSMS": 340,
+		"ActivityChromecast": 418,
+		"147.18": 483,
+		"rco": 88,
+		"528.2": 532,
+		"PiaCorlin": 126
+	},
+	"Entre": {
+		"MainDoor": 498
+	},
+	"Gangstuen": {
+		"Lysgangstuen": 429
+	},
+	"Badeværelsestuen": {
+		"Lysbadeværelse": 316,
+		"Lysniveaubad": 322,
+		"Temperaturbad": 321,
+		"Motionsensorbad": 320
+	},
+	"Soveværelse": {
+		"Lyssoveværelse": 245,
+		"Termostatsoveværels": 36
+	}
+}

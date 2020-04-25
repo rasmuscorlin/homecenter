@@ -1,0 +1,24 @@
+Variables:
+- AlarmActive: 0
+- BadStueTimeout: 0
+- Simu_presence: 0
+- alarmDays1: Weekday
+- alarmDays2: Weekend
+- alarmDays3: All
+- alarmDays4: Weekend
+- alarmTime1: 06:00
+- alarmTime2: 07:00
+- alarmTime3: 08:00
+- alarmTime4: 08:00
+- dummy: 0
+- heatHomeTimeout: 1547153306
+- overideSimuSunset: 0
+- scheduleActive: Active
+- scheduleGroup: SummerNormal
+
+Predefined Variables:
+- AlarmState: Arm, Armed, Disarm, Disarmed
+- DoorWinCheck: No, Yes
+- HeatingState: Auto, Holiday, Home
+- HouseState: AlarmArmed, Default, GoodNight
+- MorningScene: Inactive, MakingCoffee, Started
